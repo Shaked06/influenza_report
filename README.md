@@ -1,6 +1,6 @@
 # Influenza report 
-The main question of this anlysis is to see if there is a change of people's assumptions
-about vaccinations because of the pandemic. Is Covid-19 raised people's awareness about the important 
+The main question of this anlysis is to see if there is a change of people's assumptions <br/>
+about vaccinations because of the pandemic. Is Covid-19 raised people's awareness about the important <br/>
 of their health and particularly about influenza? or maybe it does the other way around?
 I belive there are some key factors like gender, religion belive and age 
 who caused a person not to want to vaccinate,
